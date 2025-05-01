@@ -11,6 +11,8 @@ npx create-next-app@latest video-editor --js --app
 npm install @reduxjs/toolkit react-redux
 npm install lucide-react
 npm install @radix-ui/react-icons class-variance-authority tailwind-variants
+npm install framer-motion
+
 
 /editor/page.jsx
 
